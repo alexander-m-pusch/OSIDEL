@@ -1,0 +1,7 @@
+
+#ifndef _OSIDEL_VERSION_HEADER
+#define _OSIDEL_VERSION_HEADER
+
+#define VERSION "@VERSION@"
+
+#endif
